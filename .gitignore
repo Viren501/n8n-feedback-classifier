@@ -1,0 +1,17 @@
+# n8n specific local configurations
+.n8n/
+n8n-local-backups/
+*.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.swp
